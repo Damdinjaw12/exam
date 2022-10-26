@@ -1,0 +1,84 @@
+/* header
+header{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    margin: 0%;
+    max-height: 44px;
+    color: black;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1024px;
+    height: 44px;
+}
+.li{
+    display: flex;
+    flex-direction: row;
+}
+.navbar li ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size:auto;
+} */
+/*Stage*/
+#stage{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 736px;
+    margin: 0% auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #fbfbfb;
+}
+.i_stage{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #fbfbfb;
+}
+.i_text{
+    display: flex;
+    justify-content: center;
+    padding-left :635px;
+}
+.i_images{
+    background-image: url(Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg);
+    position: absolute;
+    height: 499px;
+    left: 27.98%;
+    right: 28.04%;
+    top: 237px; 
+}
+/*Stage_2
+#stage_2{
+    display: block;
+    margin: 0% auto;
+    max-width: 100%;
+    background-color: rgb(5, 0, 0);
+}
+.b_stage{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 326px;
+    /* margin-right:316px;*/
+/* } */
+.b_images{
+    background-image: url(/iphone-14-pro_overview__e2a7u9jy63ma_og.png) #000000;
+}
+/*stage_3*/
+#stage_3{
+    position: relative;
+    max-width:max-content;
+}
+.w_stage3{
+    display: flex;
+    flex-direction: column;
+    flex-flow: nowrap column;
+} */
